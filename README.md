@@ -13,9 +13,6 @@
 - [Installation](#construction_worker-installation)
 - [Getting Started](#runner-getting-started)
 - [FAQ](#postbox-faq)
-- [Found a bug? Missing a specific feature?](#bug-issues)
-- [Contributing](#tada-contributing)
-- [License](#closed_book-license)
 
 <br />
 
